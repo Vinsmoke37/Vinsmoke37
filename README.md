@@ -3,4 +3,5 @@
 - 💬 Ask me about c c++
 - 📫 How to reach me:  vinsmoke.
 
-[![<aerraoui>'s 42 stats](https://badge.mediaplus.ma/<theme>/<username>)](https://github.com/oakoudad/badge42)
+
+[![aerraoui's 42 stats](https://badge.mediaplus.ma/greenbinary/aerraoui)](https://github.com/oakoudad/badge42)
