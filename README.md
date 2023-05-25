@@ -2,4 +2,5 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about c c++
 - 📫 How to reach me:  vinsmoke.
-- 😄 Pronouns: ...
+
+[![<aerraoui>'s 42 stats](https://badge.mediaplus.ma/<theme>/<username>)](https://github.com/oakoudad/badge42)
