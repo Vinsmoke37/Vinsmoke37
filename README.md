@@ -1,3 +1,12 @@
+Hello! I'm Aymen Erraoui, a passionate and ambitious student currently enrolled in 1337, a renowned coding school affiliated with the 42 Network. My academic journey began at the Faculty of Science in Rabat (FSR), where I delved into the realms of mathematics and computer science, laying a robust foundation for my current pursuits.
+
+Driven by a fascination with low-level programming, I've honed my skills from the ground up, tackling projects that showcase my proficiency in languages like C, C++, and more. From creating bash scripts to implementing raycasting ..., I've embraced the challenges of low-level programming with enthusiasm.
+
+My journey at 1337 has been instrumental in furthering my programming expertise. As a student with a strong mathematical background, I approach coding with a meticulous and analytical mindset. Although I haven't specialized in high-level programming domains just yet, my portfolio boasts a diverse array of projects that highlight my versatility and determination.
+
+Currently venturing into the fundamentals of web development, I am on a path to becoming a well-rounded full-stack developer. With each project and challenge, I am committed to continuous learning and growth, aspiring to contribute meaningfully to the ever-evolving landscape of technology. Join me on this exciting journey as I explore the vast possibilities of programming and web development!
+
+
  - 🌱 I’m currently learning  c and c++ , java , and js
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about c c++
